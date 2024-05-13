@@ -17,7 +17,7 @@ By incorporating the "STFQ SVG Upload" plugin into their WordPress websites, use
 
 ---
 
-## How to use STFQ SVG Uploader
+## How to use STFQ SVG Upload
 
 To use the "STFQ SVG Upload" plugin in your WordPress website, follow these steps:
 
