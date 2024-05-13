@@ -1,5 +1,4 @@
-# STFQ-SVG-Uploader
-
+# STFQ-SVG-Upload
 **STFQ SVG Upload** extends the functionality of the WordPress media library by enabling users to upload SVG (Scalable Vector Graphics) files securely. With SVG becoming increasingly popular for web graphics due to its scalability and flexibility, this plugin ensures that WordPress users can incorporate SVG images into their websites without compromising security.
 
 Key Features:
